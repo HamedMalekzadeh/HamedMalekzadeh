@@ -1,6 +1,4 @@
-- **👋 Hi, I’m Hamed**
-- **🌱 I’m currently learning how to use Github**
-- **💞️ I’m looking to collaborate on CIV6707A now**
+- **👋 Hi, I’m Hamed!**
 - **📫 How to reach me : hamed.malekzadeh@polymtl.ca**
 
 <!--
